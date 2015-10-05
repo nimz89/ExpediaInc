@@ -1,0 +1,10 @@
+splitPaySupported
+siteid=1
+lob=hotel
+abacus.HideFullAccountFeaturesExperiment=0
+abacus.LastMinuteUserAccounts=1
+abacus.CKOPckgRespSignIn=0
+abacus.CKOHSplitPayUK=1
+abacus.CKOHSplitPay=1
+isResponsive=false
+locale=en_US
